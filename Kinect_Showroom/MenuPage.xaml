@@ -1,0 +1,61 @@
+﻿<Page x:Class="Kinect_Showroom.MenuPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:k="http://schemas.microsoft.com/kinect/2013"
+      mc:Ignorable="d"
+      d:DesignHeight="400" d:DesignWidth="400"
+	  Title="MenuPage">
+    <Viewbox Stretch="Uniform">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100" />
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid  Grid.Row="0">
+                <Image HorizontalAlignment="Left" Source="Content/Images/Logo.png" Width="150"/>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <k:KinectTileButton k:KinectRegion.HandPointerEnter="ArticleButton_OnHandPointerEnter" MouseEnter="ArticleButton_OnMouseEnter" Name="ArticleButton" Click="ArticleButton_OnClick" Grid.Column="0">
+                    <Viewbox Stretch="Uniform">
+                        <StackPanel Orientation="Vertical" Margin="2">
+                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Aqua">ARTICLE</TextBlock>
+                            <TextBlock  VerticalAlignment="Bottom" HorizontalAlignment="Center" Foreground="Aqua">A Sample Article</TextBlock>
+                        </StackPanel>
+                    </Viewbox>
+                </k:KinectTileButton>
+                <k:KinectTileButton k:KinectRegion.HandPointerEnter="MapButton_OnHandPointerEnter" MouseEnter="MapButton_OnMouseEnter" Name="MapButton" Click="MapButton_OnClick" Grid.Column="1">
+                    <Viewbox Stretch="Uniform">
+                        <StackPanel Orientation="Vertical" Margin="2">
+                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Aqua">KINECT MAP</TextBlock>
+                            <TextBlock  VerticalAlignment="Bottom" HorizontalAlignment="Center" Foreground="Aqua">An Interactive Map</TextBlock>
+                        </StackPanel>
+                    </Viewbox>
+                </k:KinectTileButton>
+            </Grid>
+            <Grid Grid.Row="2" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <k:KinectTileButton k:KinectRegion.HandPointerEnter="PhotosButton_OnHandPointerEnter" MouseEnter="PhotosButton_OnMouseEnter" Name="PhotosButton" Click="PhotosButton_OnClick" Grid.Column="0" >
+                    <Viewbox Stretch="Uniform">
+                        <StackPanel Margin="2" Orientation="Vertical">
+                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Aqua">PHOTOS</TextBlock>
+                            <TextBlock  VerticalAlignment="Bottom" HorizontalAlignment="Center" Foreground="Aqua">Photo Gallery</TextBlock>
+                        </StackPanel>
+                    </Viewbox>
+                </k:KinectTileButton>
+                <k:KinectCircleButton k:KinectRegion.HandPointerEnter="ExitButton_OnHandPointerEnter" MouseEnter="ExitButton_OnMouseEnter" Name="ExitButton" Click="ExitButton_OnClick" Grid.Column="1" Label="Close" Foreground="DarkRed">
+                    <TextBlock FontSize="60">X</TextBlock>
+                </k:KinectCircleButton>
+            </Grid>
+        </Grid>
+    </Viewbox>
+</Page>

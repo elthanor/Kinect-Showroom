@@ -1,0 +1,81 @@
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\bin\Debug\Kinect_Showroom.exe.config
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom.csprojResolveAssemblyReference.cache
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\obj\Debug\MainWindow.baml
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\obj\Debug\MainWindow.g.cs
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\obj\Debug\App.g.cs
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom_MarkupCompile.cache
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom.g.resources
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom.Properties.Resources.resources
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom.csproj.GenerateResource.Cache
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\bin\Debug\Kinect_Showroom.exe
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\bin\Debug\Kinect_Showroom.pdb
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\bin\Debug\Microsoft.Kinect.Toolkit.dll
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom.exe
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom.pdb
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\obj\Debug\MenuPage.baml
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\obj\Debug\MenuPage.g.cs
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\obj\Debug\KinectMap.baml
+c:\users\lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\obj\Debug\KinectMap.g.cs
+C:\Users\Lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\obj\Debug\Article.baml
+C:\Users\Lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\obj\Debug\Article.g.cs
+C:\Users\Lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\obj\Debug\Photos.baml
+C:\Users\Lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\obj\Debug\Photos.g.cs
+C:\Users\Lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\bin\Debug\Content\Audio\Button_Hover.wav
+C:\Users\Lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom_Content.g.cs
+C:\Users\Lefteris\documents\visual studio 2013\Projects\Kinect_Showroom\Kinect_Showroom\bin\Debug\Content\Audio\Button Select.wav
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\bin\Debug\Kinect_Showroom.exe.config
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom.exe
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom.pdb
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\bin\Debug\Content\Audio\Button_Hover.wav
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\bin\Debug\Content\Audio\Button Select.wav
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\bin\Debug\Kinect_Showroom.exe
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\bin\Debug\Kinect_Showroom.pdb
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom.csprojResolveAssemblyReference.cache
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\obj\Debug\Article.baml
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\obj\Debug\KinectMap.baml
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\obj\Debug\MainWindow.baml
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\obj\Debug\MenuPage.baml
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\obj\Debug\Photos.baml
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\obj\Debug\Article.g.cs
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\obj\Debug\KinectMap.g.cs
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\obj\Debug\MainWindow.g.cs
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\obj\Debug\MenuPage.g.cs
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\obj\Debug\Photos.g.cs
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\obj\Debug\App.g.cs
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom_Content.g.cs
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom_MarkupCompile.cache
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom.g.resources
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom.Properties.Resources.resources
+C:\Users\Lefteris\Desktop\Thesis\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom.csproj.GenerateResource.Cache
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\bin\Debug\Kinect_Showroom.exe.config
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom.exe
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom.pdb
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\bin\Debug\Content\Audio\Button_Hover.wav
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\bin\Debug\Content\Audio\Button Select.wav
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\bin\Debug\Kinect_Showroom.exe
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\bin\Debug\Kinect_Showroom.pdb
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\bin\Debug\Microsoft.Kinect.dll
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\bin\Debug\Microsoft.Kinect.xml
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom.csprojResolveAssemblyReference.cache
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\obj\Debug\Article.baml
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\obj\Debug\KinectMap.baml
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\obj\Debug\MainWindow.baml
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\obj\Debug\MenuPage.baml
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\obj\Debug\Photos.baml
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\obj\Debug\Article.g.cs
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\obj\Debug\KinectMap.g.cs
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\obj\Debug\MainWindow.g.cs
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\obj\Debug\MenuPage.g.cs
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\obj\Debug\Photos.g.cs
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\obj\Debug\App.g.cs
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom_Content.g.cs
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom_MarkupCompile.cache
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom.g.resources
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom.Properties.Resources.resources
+E:\Αρχεία\Teipir\Thesis\Κώδικας Πτυχιακής\Kinect_Showroom\Kinect_Showroom\obj\Debug\Kinect_Showroom.csproj.GenerateResource.Cache
